@@ -1,1 +1,28 @@
-build/*
+__pycache__/
+
+# Byte-compiled files
+*.pyc
+*.pyc.cache
+*.pyo
+*.pyd
+
+# PyInstaller build artifacts
+dist/
+build/
+*.spec
+
+# Distribution / packaging
+*.exe
+*.dll
+*.so
+*.dylib
+*.zip
+
+# Environment
+.env
+venv/
+env/
+__pypackages__/
+
+# IDE
+.vscode/

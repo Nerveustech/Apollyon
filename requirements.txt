@@ -1,0 +1,7 @@
+psutil==7.2.2
+pywin32==311
+pycryptodome==3.23.0
+
+# AI Decision Support Dependencies
+python-dotenv>=1.0.1
+litellm>=1.83.7
