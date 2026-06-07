@@ -1,12 +1,14 @@
 # Apollyon
 
 <div align="center">
+  <img src="docs/images/Apollyon.png" width="800" />
+</div>
 
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20MacOS-blue" alt="Platform">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Status">
-
 </div>
 
 **Apollyon** is a modular malware tracking and removal toolkit for Windows, Linux, MacOS, featuring AI-powered decision support. It provides intelligent detection and disinfection of threats from both the operating system and removable (USB) drives.
