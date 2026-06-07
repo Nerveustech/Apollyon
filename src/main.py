@@ -22,12 +22,11 @@
 #  SOFTWARE.
 #
 
-from components.ui import banner, info_box
 from components.menu import run_menu_loop
+from utils import set_title
 
 def main():
-    banner()
-    info_box()
+    set_title("Apollyon")
     run_menu_loop()
 
 if __name__ == "__main__":
